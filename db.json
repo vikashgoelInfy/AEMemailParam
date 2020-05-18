@@ -1,6 +1,6 @@
 {
   "Newsletter1": [
-    { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject", "id":"EID 7821-1" },
+    { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject", "id":"EID7821" },
     { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject", "id":"EID 7821-2" }
   ],
   "Newsletter2": [
