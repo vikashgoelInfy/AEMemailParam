@@ -1,6 +1,6 @@
 {
   "Newsletter1": [
-    { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject" }
+    { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject" },
     { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject"}
   ],
   "Newsletter2": [
