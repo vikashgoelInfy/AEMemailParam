@@ -1,6 +1,9 @@
 {
-  "posts": [
+  "Newsletter1": [
     { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject" }
+  ],
+  "Newsletter2": [
+    { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -8,10 +11,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-    "Newsletter":[ {
-
-    { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject" }
-
-  }]
+  }
 }
