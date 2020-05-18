@@ -9,9 +9,9 @@
   "profile": {
     "name": "typicode"
   },
-    "Newsletter": {
+    "Newsletter":[ {
 
     { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject" }
 
-  }
+  }]
 }
