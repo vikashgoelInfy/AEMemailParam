@@ -4,8 +4,8 @@
     { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject", "id":"EID7821-2" }
   ],
   "Holidays": [
-	  { "NewYear":[{"https://Newyear.htmlsave.net/", "subjectLine": "Hello test Subject","id":"EID7823-1"}]},
-    { "LaborDay":[{"https://Laborday.htmlsave.net/", "subjectLine": "Hello test Subject","id":"EID7823-1"}]}
+	  { "NewYear":[{"url"="https://Newyear.htmlsave.net/", "subjectLine": "Hello test Subject","id":"EID7823-1"}]},
+    { "LaborDay":[{"url"="https://Laborday.htmlsave.net/", "subjectLine": "Hello test Subject","id":"EID7823-1"}]}
   ],
   
    "WhyBuy": [
