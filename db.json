@@ -4,12 +4,5 @@
   ],
   "Newsletter2": [
     { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
