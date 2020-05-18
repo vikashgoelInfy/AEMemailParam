@@ -1,17 +1,17 @@
 {
   "Newsletter1": [
-    { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject", "id"="EID 7821-1" },
-    { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject", "id"="EID 7821-2" }
+    { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject", "id":"EID 7821-1" },
+    { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject", "id":"EID 7821-2" }
   ],
   "Refinance": [
-    { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject","id"="EID 7823-1" }
+    { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject","id":"EID 7823-1" }
   ],
   
    "Why Buy": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/do-you-know-buying-can-be-good", "subjectLine": "Do you know buying can be good?","id"="EID 7824-1" },
-	{ "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html", "subjectLine": "Easier than you think" ,"id"="EID 7824-2"}
+    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/do-you-know-buying-can-be-good", "subjectLine": "Do you know buying can be good?","id":"EID 7824-1" },
+	{ "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html", "subjectLine": "Easier than you think" ,"id":"EID 7824-2"}
   ],
   "Refinance": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/refinance/now-is-the-time-to-refinance.html", "subjectLine": "Now is the time to refinance","id"="EID 7825-1" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/refinance/now-is-the-time-to-refinance.html", "subjectLine": "Now is the time to refinance","id":"EID 7825-1" }
   ]
 }
