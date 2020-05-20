@@ -1,18 +1,17 @@
 {
   "Newsletter1": [
-    { "url": "https://asbs.htmlsave.net/", "subjectLine": "Hello test Subject", "id":"EID7821" },
-    { "url": "https://vikash.htmlsave.net/", "subjectLine": "Hello test Subject", "id":"EID7821-2" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/refinance/now-is-the-time-to-refinance.html", "subjectLine": "Now is the time to refinance", "id":"EID7821" }
   ],
   "Holidays": [
-	  { "NewYear":[{"url":"https://Newyear.htmlsave.net/", "subjectLine": "Hello test Subject","id":"EID7823-1"}]},
-    { "LaborDay":[{"url":"https://Laborday.htmlsave.net/", "subjectLine": "Hello test Subject","id":"EID7823-2"}]}
+	  { "NewYear":[{"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/do-you-know-buying-can-be-good.html", "subjectLine": "Do you know buying can be good?","id":"EID7823-1"}]},
+    { "LaborDay":[{"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html", "subjectLine": "Easier than you think","id":"EID7823-2"}]}
   ],
   
    "WhyBuy": [
     { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/do-you-know-buying-can-be-good.html", "subjectLine": "Do you know buying can be good?","id":"EID0001" },
 	{ "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html", "subjectLine": "Easier than you think" ,"id":"EID0002"}
   ],
-  "Refinance": [
+  "Birthday": [
     { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/refinance/now-is-the-time-to-refinance.html", "subjectLine": "Now is the time to refinance","id":"EID 7825-1" }
   ]
 }
