@@ -5,15 +5,16 @@
 	 "Newsletter2": [
     { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/refinance/now-is-the-time-to-refinance.html", "subjectLine": "Now is the time to refinance", "id":"EID7821" }
   ],
+	 "Newsletter3": [
+
+    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html", "subjectLine": "Easier than you think", "id":"EID7823-2" }
+
+  ],	
   "Holidays": [
 	  {"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/do-you-know-buying-can-be-good.html", "subjectLine": "Do you know buying can be good?","id":"EID7823-1"},
     	  {"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html", "subjectLine": "Easier than you think","id":"EID7823-2"}
   ],
-  
-   "WhyBuy": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/do-you-know-buying-can-be-good.html", "subjectLine": "Do you know buying can be good?","id":"EID0001" },
-	{ "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html", "subjectLine": "Easier than you think" ,"id":"EID0002"}
-  ],
+ 
   "Birthday": [
     { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/refinance/now-is-the-time-to-refinance.html", "subjectLine": "Now is the time to refinance","id":"EID 7825-1" }
   ]
