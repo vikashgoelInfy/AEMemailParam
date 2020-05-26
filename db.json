@@ -11,8 +11,19 @@
 
   ],	
   "Holidays": [
-	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholidaycampaign.html", "subjectLine": "ACSHolidayCampaign?","id":"EID7823-1"},
-    	  
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholidaycampaign.html", "subjectLine": "ACSHoliday-New Year","id":"EID7823-1"},
+    	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-valentine-day.html", "subjectLine": "ACSHoliday-Valentine Day","id":"EID7823-2"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-saint-patrick-day.html", "subjectLine": "ACSHoliday-patrick Day","id":"EID7823-3"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-mothersday.html", "subjectLine": "ACSHoliday-mothers Day","id":"EID7823-4"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-memorial-day.html", "subjectLine": "ACSHoliday-Memorial Day","id":"EID7823-5"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-father-s-day.html", "subjectLine": "ACSHoliday-fathers Day","id":"EID7823-6"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-independence-day.html", "subjectLine": "ACSHoliday-Independence Day","id":"EID7823-7"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-labour-day.html", "subjectLine": "ACSHoliday-Labour Day","id":"EID7823-8"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-haloowen.html", "subjectLine": "ACSHoliday-haloowen Day","id":"EID7823-9"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-veterans-day.html", "subjectLine": "ACSHoliday-Veterans Day","id":"EID7823-10"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-thanks-giving-day.html", "subjectLine": "ACSHoliday-thanks giving Day","id":"EID7823-11"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-happy-holiday.html", "subjectLine": "ACSHoliday-Happy Holiday","id":"EID7823-12"},
+	   
   ],
  
   "Birthday": [
