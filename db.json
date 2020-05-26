@@ -1,21 +1,21 @@
 {
   "Newsletter1": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/refinance/now-is-the-time-to-refinance.html", "subjectLine": "Now is the time to refinance", "id":"EID7821" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html", "subjectLine": "ACS-Newsletters", "id":"EID7821" }
   ],
 	 "Newsletter2": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/refinance/now-is-the-time-to-refinance.html", "subjectLine": "Now is the time to refinance", "id":"EID7821" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html", "subjectLine": "ACS-Newsletters", "id":"EID7821" }
   ],
 	 "Newsletter3": [
 
-    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/blogtest1-withallcategories.html", "subjectLine": "test with Blog page AEM", "id":"EID7823-2" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html", "subjectLine": "ACS-Newsletters", "id":"EID7823-1" }
 
   ],	
   "Holidays": [
-	  {"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/do-you-know-buying-can-be-good.html", "subjectLine": "Do you know buying can be good?","id":"EID7823-1"},
-    	  {"url":"https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/why-buy/easier-than-you-think.html", "subjectLine": "Easier than you think","id":"EID7823-2"}
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholidaycampaign.html", "subjectLine": "ACSHolidayCampaign?","id":"EID7823-1"},
+    	  
   ],
  
   "Birthday": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/blogtest-marketupdate.html", "subjectLine": "test with Blog Page","id":"EID 7825-1" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate.html ", "subjectLine": "ACSTestTemplate","id":"EID 7825-1" }
   ]
 }
