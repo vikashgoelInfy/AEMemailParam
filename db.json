@@ -11,11 +11,11 @@
 
   ],	
   "Holidays": [
-	        {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acsautocampaign.html", "subjectLine": "Image Test","id":"EID7823-5"}
+	           {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-mothersday.html", "subjectLine": "ACSHoliday-mothers Day","id":"EID7823-4"}
     	
   ],
  
   "Birthday": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate.html", "subjectLine": "HappyBirthday","id":"EID 7825-1" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acsautocampaign.html", "subjectLine": "HappyBirthday","id":"EID 7825-1" }
   ]
 }
