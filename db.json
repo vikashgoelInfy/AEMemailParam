@@ -22,11 +22,11 @@
 	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-haloowen.html", "subjectLine": "ACSHoliday-haloowen Day","id":"EID7823-9"},
 	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-veterans-day.html", "subjectLine": "ACSHoliday-Veterans Day","id":"EID7823-10"},
 	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-thanks-giving-day.html", "subjectLine": "ACSHoliday-thanks giving Day","id":"EID7823-11"},
-	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-happy-holiday.html", "subjectLine": "ACSHoliday-Happy Holiday","id":"EID7823-12"},
+	  {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-happy-holiday.html", "subjectLine": "ACSHoliday-Happy Holiday","id":"EID7823-12"}
 	   
   ],
  
   "Birthday": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate.html ", "subjectLine": "ACSTestTemplate","id":"EID 7825-1" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate.html", "subjectLine": "ACSTestTemplate","id":"EID 7825-1" }
   ]
 }
