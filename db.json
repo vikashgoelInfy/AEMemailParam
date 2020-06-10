@@ -1,6 +1,65 @@
 {
   "Newsletter1": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html", "subjectLine": "👍🏼🏡 You’re pre-approved! Now what?", "id":"EID7821" }
+    {
+    "url": "https://asbs.htmlsave.net/",
+    "subjectLine": "EMAIL 1",
+    "id": "EID-A1002-1"
+  },
+  {
+    "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html",
+    "subjectLine": "EMAIL 2",
+    "id": "EID-A1002-2"
+  },
+  {
+    "url": "https://asbs.htmlsave.net/",
+    "subjectLine": "EMAIL 3",
+    "id": "EID-A1002-3"
+  },
+  {
+    "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html",
+    "subjectLine": "EMAIL 4",
+    "id": "EID-A1002-4"
+  },
+  {
+    "url": "https://asbs.htmlsave.net/",
+    "subjectLine": "EMAIL 5",
+    "id": "EID-A1002-5"
+  },
+  {
+    "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html",
+    "subjectLine": "EMAIL 6",
+    "id": "EID-A1002-6"
+  },
+  {
+    "url": "https://asbs.htmlsave.net/",
+    "subjectLine": "EMAIL 7",
+    "id": "EID-A1002-7"
+  },
+  {
+    "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html",
+    "subjectLine": "EMAIL 8",
+    "id": "EID-A1002-8"
+  },
+  {
+    "url": "https://asbs.htmlsave.net/",
+    "subjectLine": "EMAIL 9",
+    "id": "EID-A1002-9"
+  },
+  {
+    "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html",
+    "subjectLine": "EMAIL 10",
+    "id": "EID-A1002-10"
+  },
+  {
+    "url": "https://asbs.htmlsave.net/",
+    "subjectLine": "EMAIL 11",
+    "id": "EID-A1002-11"
+  },
+  {
+    "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html",
+    "subjectLine": "EMAIL 12",
+    "id": "EID-A1002-12"
+  }
   ],
 	 "Newsletter2": [
     { "url": "https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acs-newsletters.html", "subjectLine": "ACS-Newsletters", "id":"EID7821" }
