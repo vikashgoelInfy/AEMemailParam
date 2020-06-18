@@ -3,24 +3,24 @@
   
   {
     "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/post-closing/birthday-to-borrower-.html",
-    "subjectLine": "Mortgage sense newsletter",
+    "title": "Mortgage sense newsletter",
     "id": "EID-A1002-2"
   }
   ],
 	 "Newsletter2": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/post-closing/first-payment.html", "subjectLine": "Homemade Newsletter", "id":"EID7821" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/post-closing/first-payment.html", "title": "Homemade Newsletter", "id":"EID7821" }
   ],
 	 "Newsletter3": [
 
-    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/post-closing/congratulations.html", "subjectLine": "Market Update Newsletter", "id":"EID7823-1" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/post-closing/congratulations.html", "title": "Market Update Newsletter", "id":"EID7823-1" }
 
   ],	
   "Holidays": [
-	                                     {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-happy-holiday.html", "subjectLine": "ACSHoliday-Happy Holiday","id":"EID7823-12"}
+	                                     {"url":"https://movement-stage2.adobemsbasic.com/content/mm/en/testing/qa-testing/acstesttemplate/acsholiday-happy-holiday.html", "title": "ACSHoliday-Happy Holiday","id":"EID7823-12"}
     	
   ],
  
   "Birthday": [
-    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/post-closing/birthday-to-borrower-.html", "subjectLine": "HappyBirthday","id":"EID 7825-1" }
+    { "url": "https://movement-stage2.adobemsbasic.com/content/campaigns/mm/master/post-closing/birthday-to-borrower-.html", "title": "HappyBirthday","id":"EID 7825-1" }
   ]
 }
